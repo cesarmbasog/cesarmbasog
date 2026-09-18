@@ -20,3 +20,24 @@ Mi objetivo es seguir aprendiendo, crear proyectos prácticos y adquirir habilid
 - Siempre aprendiendo algo nuevo.
 
 ---
+
+## Tecnologías y herramientas
+
+---
+
+## Proyectos destacos
+
+---
+
+## Objetivos de aprendizaje
+- [ ] Mejorar mis conocimientos de JavaScript.
+- [ ] Aprender programación orientada a proyectos.
+- [ ] Dominar Linux y administración de sistemas.
+- [ ] Aprender Windows Server y Active Directory.
+- [ ] Comprender redes informáticas y protocolos.
+- [ ] Aprender bases de datos y SQL.
+- [ ] Practicar virtualixación con VirtualBox y VMware.
+- [ ] Explorar cloud computing.
+- [ ] Desarrollar fundamentos de ciberseguridad.
+- [ ] Crear proyectos reales para mi porta folio.
+- [ ] Prepararme para mi primera experiencia profesional en IT.
