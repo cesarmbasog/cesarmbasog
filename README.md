@@ -25,7 +25,7 @@ Mi objetivo es seguir aprendiendo, crear proyectos prácticos y adquirir habilid
 
 ---
 
-## Proyectos destacos
+## Proyectos destacados
 
 ---
 
