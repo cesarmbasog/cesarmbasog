@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <datos_personales>
+    <nombre>Cesar Enrique Medang</nombre>
+    <apellidos>Mico Mbasogo</apellidos>
+	<emails>
+		<trabajo>cesarmbasogo@gmail.com</trabajo>
+		<personal>chrismabasogo@gmail.com</personal>
+	</emails>
+  </datos_personales>
+  <experiencia>
+	<empresa>Amazon</empresa>
+	<cargo>Repartidor</cargo>
+	<inicio>2026-09</inicio>
+	<final>Actualmente</final>
+  </experiencia>
+  <formacion>
+	<centro>CEAC</centro>
+	<titulación>Administración de sistemas informáticos en red</titulación>
+	<inicio>2026-09</inicio>
+	<final>en curso</final>
+  </formacion>
+  <habilidadesTecnicas>
+	<habilidad>XML</habilidad>
+	<habilidad>JSON</habilidad>
+	<habilidad>Markdown</habilidad>
+	<habilidad>Batch (.bat)</habilidad>
+	<habilidad>PowerShell</habilidad>
+  </habilidadesTecnicas>
+  <idiomas>
+	<idioma>Español</idioma>
+	<nivel>Nativo</nivel>
+	<idioma>Inglés</idioma>
+	<nivel>Intermedio</nivel>
+  </idiomas>
+</curriculum>
